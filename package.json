@@ -10,7 +10,7 @@
   "dependencies": {
     "@coinjinja/coinview-sdk": "^1.0.2-dev",
     "isomorphic-fetch": "^2.2.1",
-    "vue": "^2.5.17",
+    "vue": "^3.0.0",
     "vue-native-websocket": "^2.0.11",
     "vue-router": "^3.0.1"
   },
